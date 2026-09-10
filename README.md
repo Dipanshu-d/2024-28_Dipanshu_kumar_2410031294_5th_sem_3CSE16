@@ -1,129 +1,136 @@
-Google AI-ML Virtual Internship
+# 🔐 Cybersecurity Virtual Internship
 
-AICTE – EduSkills Virtual Internship Program | Supported by Google for Developers
+### AICTE – EduSkills Virtual Internship Program | Supported by Palo Alto Networks
 
-This repository contains my internship report, presentation, and completion credentials for the Google AI-ML track of the AICTE–EduSkills Virtual Internship Program (June – August 2026).
+This repository contains the documentation, presentation, certificate, and related materials for my **10-week Cybersecurity Virtual Internship**, completed during **June – August 2026** under the **AICTE–EduSkills Internship Program**.
 
----
-
-👤 Student Details
-
-Field| Details
-Name| Dipanshu Kumar
-Roll Number| 2410031294
-Institute| IILM University, Greater Noida, U.P.
-Programme| B.Tech CSE, Batch 2024–2028
-Internship Domain| Google Cybersecurity
-Duration| 8 Weeks (June 2026 – August 2026)
+The internship certificate was issued in the name of **Dipanshu Kumar**, student of **IILM University, Greater Noida**, and the program was supported by **Palo Alto Networks**.
 
 ---
 
-📌 About the Internship
+## 👤 Student Details
 
-The internship focused on building a strong practical foundation in Machine Learning and Deep Learning using TensorFlow, applied to real-world computer-vision problems such as image classification, on-device object detection, and product image search for mobile applications.
-
-The program followed a structured, week-wise curriculum combining conceptual learning, hands-on labs, quizzes, and skill badges on the Google Developer Program platform, culminating in a Final Credential Validation.
-
-Organization: EduSkills Academy (ISO 9001:2015 & ISO/IEC 20000-1:2018 certified), which runs the AICTE–EduSkills Virtual Internship Program under the patronage of the AICTE National Internship Portal, in partnership with Google for Developers.
-
----
-
-🎯 Objectives
-
-- Build convolutional neural networks (CNNs) using TensorFlow from first principles
-- Integrate pretrained object detectors into mobile applications
-- Train custom object-detection models using TensorFlow Lite & Model Maker
-- Build a product image search feature using on-device object detection
-- Detect objects in static images and live camera feeds
-- Build backend integration for a product image search mobile application
-- Build and improve custom image-classification models
-- Integrate a custom image classifier into a working application
+| Field | Details |
+|---|---|
+| **Name** | Dipanshu Kumar |
+| **Student ID** | STU69025ec364e4d1761763011 |
+| **Roll Number** | 2410031294 |
+| **Institute** | IILM University, Greater Noida |
+| **Programme** | B.Tech Computer Science & Engineering |
+| **Batch** | 2024–2028 |
+| **Semester** | 5th Semester |
+| **Class/Section** | 3CSE16 |
+| **Internship Domain** | Cybersecurity |
+| **Duration** | 10 Weeks |
+| **Internship Period** | June – August 2026 |
+| **Training/Support** | Palo Alto Networks |
 
 ---
 
-🗓️ Week-wise Curriculum
+## 📜 Internship Certificate
 
-Week| Module| Description
-1| Program Neural Networks with TensorFlow| Foundational ML concepts → building CNNs for image recognition & classification
-2| Get Started with Object Detection| Basics of object detection; integrating pretrained detectors into mobile apps
-3| Go Further with Object Detection| Training custom object-detection models using TensorFlow Lite & Model Maker
-4| Get Started with Product Image Search| Building a product image search feature using on-device object detection
-5| Get Started with Product Image Search| Detecting objects in static images and live camera feeds
-6| Go Further with Product Image Search| Backend integration for a product image search mobile application
-7| Go Further with Image Classification| Building custom image-classification models
-8| Go Further with Image Classification| Creating and integrating a custom image classifier into an app
-Final| Final Credential Validation| Internship Grade Point Assessment
+I successfully completed the **10-week Cybersecurity Virtual Internship** during **June – August 2026**.
 
-«Note: There was no stipend associated with this internship.»
+The certificate was issued by **EduSkills** under the **AICTE, Ministry of Education**, and the internship was supported by **Palo Alto Networks**.
 
----
+### Certificate Details
 
-🛠️ Technologies & Tools
+| Field | Details |
+|---|---|
+| **Certificate Title** | Certificate of Virtual Internship |
+| **Internship Domain** | Cybersecurity |
+| **Duration** | 10 Weeks |
+| **Period** | June – August 2026 |
+| **Student Name** | Dipanshu Kumar |
+| **University** | IILM University, Greater Noida |
+| **Certificate ID** | `9b5b994248741a69905398d60b99e891` |
+| **Student ID** | `STU69025ec364e4d1761763011` |
+| **Supported By** | Palo Alto Networks |
+| **Organizations Mentioned** | AICTE, Ministry of Education, EduSkills |
 
-"Python" · "TensorFlow" · "Keras" · "TensorFlow Lite" · "TensorFlow Lite Model Maker" · "Convolutional Neural Networks (CNNs)" · "Object Detection" · "Image Classification" · "Mobile App Integration"
-
----
-
-🏆 Certification & Credentials
-
-Field| Details
-Certificate Title| Certificate of Virtual Internship – Google Cybersecurity
-Grade| O (Outstanding)
-Certificate ID| Add your certificate ID
-AICTE Student ID| Add your AICTE Student ID
-Offer Letter Ref No.| Add your Offer Letter Reference Number
-Issued By| EduSkills Academy, under the patronage of AICTE & the National Internship Portal, supported by Google for Developers
-
-🔗 Reference Links
-
-- EduSkills Foundation login/certificate portal: https://eduskillsfoundation.org/login
-- AICTE National Internship Portal: https://internship.aicte-india.org/
-- Google Developer Program: https://developers.google.com/profile
-- Google Developers – Machine Learning: https://developers.google.com/machine-learning
-- TensorFlow Documentation: https://www.tensorflow.org/
-- TensorFlow Lite Documentation: https://www.tensorflow.org/lite
-- TensorFlow Lite Model Maker: https://www.tensorflow.org/lite/models/modify/model_maker
-
-«Certificate authenticity can be verified via the QR code printed on the certificate itself (scan-to-verify), issued by EduSkills Academy.»
+The certificate confirms the successful completion of the Cybersecurity Virtual Internship. :contentReference[oaicite:2]{index=2}
 
 ---
 
-📁 Repository Contents
+## 🛡️ About the Internship
 
-├── Internship_Report_Dipanshu_Kumar.docx
-├── Google_AI_ML_Internship_Dipanshu_Kumar.pptx
-├── Certificate_of_Internship.png
-├── Internship_Offer_Letter.png
-└── README.md
+The internship provided an opportunity to gain practical exposure to the field of **Cybersecurity** through a structured virtual internship program.
 
----
+The program was conducted for a duration of **10 weeks during June – August 2026** and was supported by **Palo Alto Networks**.
 
-📄 Report Structure
-
-1. Candidate's Declaration
-2. Acknowledgement
-3. Internship Completion Certificate
-4. Project Description
-   - 4.1 Introduction
-   - 4.2 Organization Profile
-   - 4.3 Problem Statement
-   - 4.4 Project Objectives
-   - 4.5 Scope of the Project
-   - 4.6 Technologies and Tools Used
-   - 4.7 System Architecture
-   - 4.8 Methodology
-   - 4.9 Expected Outcomes
-   - 4.10 Certificates of Completion and Communication Proof
-5. Bibliography/References
+The internship helped develop an understanding of cybersecurity concepts, security practices, and the broader cybersecurity ecosystem.
 
 ---
 
-🙏 Acknowledgement
+## 🎯 Internship Objectives
 
-I sincerely thank the AICTE–EduSkills Virtual Internship Program team, EduSkills Academy, and Google for Developers for providing me with this valuable learning opportunity.
+The major objectives of the internship were:
 
-I also express my gratitude to IILM University, Greater Noida for its continuous support and guidance throughout the internship program.
+- To develop a foundational understanding of Cybersecurity.
+- To understand common cybersecurity concepts and practices.
+- To gain practical exposure to cybersecurity-related activities.
+- To improve problem-solving and analytical skills in security scenarios.
+- To understand the importance of network and information security.
+- To develop awareness of modern cybersecurity threats and protection mechanisms.
+- To strengthen technical knowledge relevant to a career in Cybersecurity.
 
 ---
 
-Dipanshu Kumar · B.Tech CSE · IILM University, Greater Noida# 2024-28_Dipanshu_kumar_2410031294_5th_sem_3CSE16
+## 🔧 Domain
+
+| Category | Details |
+|---|---|
+| **Primary Domain** | Cybersecurity |
+| **Internship Type** | Virtual Internship |
+| **Duration** | 10 Weeks |
+| **Period** | June – August 2026 |
+| **Support Organization** | Palo Alto Networks |
+| **Program** | AICTE – EduSkills Virtual Internship |
+
+---
+
+## 🧠 Key Areas of Interest
+
+During the internship, the focus was related to the broader field of cybersecurity, including:
+
+- 🔐 Cybersecurity Fundamentals
+- 🌐 Network Security
+- 🛡️ Information Security
+- 🚨 Cyber Threats
+- 🔎 Vulnerability Awareness
+- 🔑 Authentication & Access Control
+- 🧱 Security Architecture
+- 📊 Security Monitoring
+- ⚠️ Risk and Threat Management
+
+> **Note:** The areas listed above represent the cybersecurity domain and should not be interpreted as an exact week-wise curriculum unless supported by the official internship material.
+
+---
+
+## 🏆 Internship Achievement
+
+Successfully completed the:
+
+### **10-Week Cybersecurity Virtual Internship**
+
+**June – August 2026**
+
+Supported by:
+
+**Palo Alto Networks**
+
+Certificate issued through the **AICTE – Ministry of Education – EduSkills** ecosystem. :contentReference[oaicite:3]{index=3}
+
+---
+
+## 📁 Repository Contents
+
+```text
+📦 Cybersecurity-Virtual-Internship
+│
+├── 📄 README.md
+├── 📄 2024-28_Dipanshu_kumar_2410031294_5th_sem_3CSE16
+├── 📄 Internship_Report_Dipanshu_Kumar.docx
+├── 📊 Cybersecurity_Internship_Presentation.pptx
+├── 🏆 Certificate_of_Internship.png
+└── 📜 Internship_Offer_Letter.png
